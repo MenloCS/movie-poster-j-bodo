@@ -75,11 +75,11 @@ Open Adobe Firefly. Generate images based on your creative brief, but remember: 
 - **What I'll change for next attempt:**  Use brighter colors, maybe in the LAPD office instead of the abandoned building
 
 **Attempt 2:**  
-- **My prompt:**  
+- **My prompt:**  can you make me a wide-shot (from bird's eye view) poster of morgan gillory from high potential. Have her laying in a chalk outline and looking up at the camera in an abandoned building. make the colors brighter
 
-- **What worked:**  
-- **What didn't work:**  
-- **What I'll change for next attempt:**  
+- **What worked:**  The colors looked a lot better and suited the theme of the show
+- **What didn't work:**  It still looked too messy
+- **What I'll change for next attempt:** Change the setting to the den in the LAPD station
 
 ---
 
@@ -89,19 +89,19 @@ Open Adobe Firefly. Generate images based on your creative brief, but remember: 
 Keep refining. Try at least two more meaningfully different directions.
 
 **Attempt 3:**  
-- **My prompt:**  
+- **My prompt:**  can you make me a wide-shot (from bird's eye view) poster of morgan gillory from high potential. Have her laying in a chalk outline and looking up at the camera in the den of the LAPD station. make the colors brighter
 
-- **What worked:**  
-- **What didn't work:**  
-- **What I'll change for next attempt:**  
+- **What worked:**  The background is shown in the show more, so it feels familiar
+- **What didn't work:**  Her body position doesn't quite fit her personality and the text at the  top seems pretty random
+- **What I'll change for next attempt:**  make her have a pencil or something
 
 **Attempt 4:**  
-- **My prompt:**  
+- **My prompt:**  can you make me a wide-shot (from bird's eye view) poster of morgan gillory from high potential. Have her laying in a chalk outline and looking up at the camera in the den of the LAPD station. make the colors even brighter and make sure they pop more. Add a pencil tucked in morgan's ear and some papers strewn on the floor. change the text at the top to say "easy peasy lemon squeezy"
 
-- **What worked:**  
-- **What didn't work:**  
+- **What worked:**  The AI followed instructions
+- **What didn't work:**  I was really satisfied with the product.
 
-**Final AI Image Selected:** (Which attempt? Why?)  
+**Final AI Image Selected:** (Which attempt? Why?) #4, it fit the themes of the show best
 
 ---
 
@@ -131,24 +131,24 @@ Export your best AI generation and open it in Photoshop. You must make at least 
 ## Step 5: Reflection
 *(Commit message: "Completed reflection")*
 
-**How did your vision evolve?**  
+**How did your vision evolve?** 
 Compare your original creative brief to your final poster. What changed? What stayed the same?  
-
+The setting changed, the colors got brighter, and the mess changed from rubble to an organized chaos of papers.
 
 **What decision are you most proud of that the AI didn't make for you?**  
-
+I made most of the decisions myself, but I noticed that some of the folders strewn on the floor are labeled as confidential, which suits the kind of cases they deal with in the show.
 
 **What would you do differently next time?**  
-
+Begin with an idea that doesn't violate the guidelines of some generators. I spent most of my time trying to generate this poster with Gemini, but I ended up switching to ChatGPT
 
 ---
 
 ## Final Checklist
 
 Before submitting, make sure your repo contains:
-- [ ] This completed `movie-poster-project.md` file  
-- [ ] Your final poster image (`final-poster.jpg` or `final-poster.png`)  
-- [ ] At least 5 commits showing your progress  
+- [X] This completed `movie-poster-project.md` file  
+- [X] Your final poster image (`final-poster.jpg` or `final-poster.png`)  
+- [X] At least 5 commits showing your progress --> (I forgot to commit after some) 
 
 ---
 
