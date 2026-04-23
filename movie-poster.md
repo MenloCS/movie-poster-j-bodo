@@ -30,30 +30,30 @@ At each step, save and commit your work in GitHub Desktop.
 Before you open any AI tools, plan your vision. This is your anchor—return to it after every AI generation.
 
 **Your Movie Choice:**  
-- **Movie Title:**  
-- **Why I chose this movie:**  
+- **Movie Title:**  High Potential
+- **Why I chose this movie:**  It is a detective series I recently binged and really enjoyed.
 
 **Core Emotion:**  
 What ONE feeling should a viewer get from your poster? (Examples: wonder, fear, joy, excitement, mystery, tension, nostalgia)  
-- **Core emotion:**  
+- **Core emotion:**  Mystery or Excitement
 
 **Essential Visual Element:**  
 What ONE image, object, or visual MUST appear on your poster?  
-- **Essential element:**  
-- **Why this element:**  
+- **Essential element:**  A dead body outline
+- **Why this element:**  It is a detective show with a murder almost every episode.
 
 **What NOT to Include:**  
 What do you definitely NOT want? (This helps you evaluate AI outputs critically.)  
-- **Avoid:**  
+- **Avoid:**  her looking dead
 
 **Color Palette:**  
-- **Dominant color(s):**  
-- **Accent color(s):**  
-- **Overall mood:** (warm/cool/muted/vibrant/dark/bright)  
+- **Dominant color(s):**  blue, bold colors
+- **Accent color(s):**  pink, gray or white
+- **Overall mood:** (warm/cool/muted/vibrant/dark/bright)  vibrant
 
 **Composition:**  
 - [ ] Close-up (face/detail)  
-- [ ] Wide shot (landscape/setting)  
+- [X] Wide shot (landscape/setting)  
 - [ ] Medium shot (full figure)  
 - [ ] Object/symbol centered  
 - [ ] Character collage  
@@ -68,11 +68,11 @@ What do you definitely NOT want? (This helps you evaluate AI outputs critically.
 Open Adobe Firefly. Generate images based on your creative brief, but remember: you're exploring possibilities, not looking for a final answer.
 
 **Attempt 1:**  
-- **My prompt:**  
+- **My prompt:**  can you make me a wide-shot (from bird's eye view) poster of  morgan gillory from high potential.  Have her laying in a chalk outline and looking up at the camera in an abandoned building.
 
-- **What worked:**  
-- **What didn't work:**  
-- **What I'll change for next attempt:**  
+- **What worked:**  They got the character right
+- **What didn't work:**  they had her name at the bottom
+- **What I'll change for next attempt:**  Use brighter colors, maybe in the LAPD office instead of the abandoned building
 
 **Attempt 2:**  
 - **My prompt:**  
